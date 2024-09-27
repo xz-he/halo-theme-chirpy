@@ -22,7 +22,7 @@ const productionImport = `
 
 const developmentImport = `
    <script
-      th:src="@{http://localhost:5173/themes/halo-theme-chirpy/assets/dist/main.js}"
+      th:src="@{http://localhost:5173/themes/halo-xz/assets/dist/main.js}"
       type="module"
     ></script>
 `

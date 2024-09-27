@@ -2,7 +2,7 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: halo-theme-chirpy
+  name: halo-xz
   annotations:
     # Add supports for Halo App Store
     # https://halo.run/store/apps/app-vGuQB
@@ -14,9 +14,9 @@ spec:
     website: https://airbozh.cn
   description: A minimal, responsive and feature-rich Halo theme for technical writing.
   logo: https://chirpy-img.netlify.app/commons/avatar.jpg
-  website: https://github.com/AirboZH/halo-theme-chirpy
-  repo: https://github.com/AirboZH/halo-theme-chirpy.git
-  settingName: "halo-theme-chirpy-setting"
-  configMapName: "halo-theme-chirpy-configMap"
+  website: https://github.com/AirboZH/halo-xz
+  repo: https://github.com/AirboZH/halo-xz.git
+  settingName: "halo-xz-setting"
+  configMapName: "halo-xz-configMap"
   version: 1.4.6
   require: ">=2.0.0"

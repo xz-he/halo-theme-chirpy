@@ -10,4 +10,4 @@ currently being supported with security updates.
 |   1.x   | :white_check_mark: |
 ## Reporting a Vulnerability
 
-https://github.com/AirboZH/halo-theme-chirpy/issues
+https://github.com/AirboZH/halo-xz/issues

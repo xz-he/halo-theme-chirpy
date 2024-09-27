@@ -1,5 +1,5 @@
 {
-  "name": "halo-theme-chirpy",
+  "name": "halo-xz",
   "version": "1.4.6",
   "description": "A minimal, responsive and feature-rich Halo theme for technical writing.",
   "scripts": {
@@ -23,12 +23,12 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AirboZH/halo-theme-chirpy.git"
+    "url": "https://github.com/AirboZH/halo-xz.git"
   },
   "bugs": {
-    "url": "https://github.com/AirboZH/halo-theme-chirpy/issues"
+    "url": "https://github.com/AirboZH/halo-xz/issues"
   },
-  "homepage": "https://github.com/AirboZH/halo-theme-chirpy",
+  "homepage": "https://github.com/AirboZH/halo-xz",
   "devDependencies": {
     "@rollup/plugin-inject": "^5.0.3",
     "archiver": "^6.0.1",
